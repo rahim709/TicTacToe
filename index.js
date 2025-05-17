@@ -33,7 +33,7 @@ const checkWin = ()=> {
             document.querySelector('.info').innerText = boxtext[e[0]].innerText + " Won";
             document.querySelector('.imgbox').getElementsByTagName('img')[0].style.width = "200px";
             gameover.play();
-            document.querySelector(".line").style.width = "20vw";
+            document.querySelector(".line").style.width = "0vw";
             document.querySelector(".line").style.transform = `translate(${e[3]}vw,${e[4]}vw) rotate(${e[5]}deg)`;
         }
     });
