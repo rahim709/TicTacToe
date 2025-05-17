@@ -20,24 +20,6 @@ A simple yet interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
     📱 Responsive design for mobile and desktop
 
-🚀 Features
-
-    🎲 Classic 3x3 Tic Tac Toe gameplay
-
-    🎵 Sound effects for:
-
-        .Clicks (ting.mp3)
-
-        .Game over (gameover.mp3)
-
-        .Background music (music.mp3)
-
-    ✨ Animated winning line and celebration GIF
-
-    🔁 Reset button to start a new game
-
-    📱 Responsive design for mobile and desktop
-
 📁 Project Structure
 
 ├── index.html         # Main HTML structure
