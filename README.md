@@ -22,13 +22,13 @@ A simple yet interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 📁 Project Structure
 
-├── index.html         # Main HTML structure
-├── style.css          # Styling for layout and responsiveness
-├── index.js           # Game logic and interactivity
-├── ting.mp3           # Sound for each turn
-├── gameover.mp3       # Sound for game over
-├── music.mp3          # Background music
-└── excited.gif        # Win celebration GIF
+├── index.html         # Main HTML structure <br>
+├── style.css          # Styling for layout and responsiveness <br>
+├── index.js           # Game logic and interactivity <br>
+├── ting.mp3           # Sound for each turn <br>
+├── gameover.mp3       # Sound for game over <br>
+├── music.mp3          # Background music <br>
+└── excited.gif        # Win celebration GIF 
 
 ▶️ How to Play
 
