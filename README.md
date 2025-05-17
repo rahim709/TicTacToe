@@ -62,5 +62,5 @@ A simple yet interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 🧑‍💻 Author
 
-Made with ❤️ by Abdur Rahim
+Made with ❤️ by Abdur Rahim <br>
 Feel free to fork, improve, and share!
